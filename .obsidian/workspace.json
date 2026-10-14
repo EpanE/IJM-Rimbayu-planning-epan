@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "bd069aa7af7903f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ef3ab4eb0e716b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf0a0ddc7538c96",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing poles justification.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing poles justification.excalidraw"
+            }
+          },
+          {
+            "id": "0b19194f367ee8ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/countingpolesncams.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "countingpolesncams.excalidraw"
+            }
+          },
+          {
+            "id": "3f0de30dd885c839",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing number of poles from maps with distance.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93c7ee538d0c1753",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d4d6545f91508f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1dd6e270bf81a96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4ccdfa0f48fbdef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e01535eff72839ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb255b92e72ac0eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc931f2611768b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5e96792fa041fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "396c8b9e1e5239f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "decc9a13e3b44f17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb2a065bfe6c087e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c45da832463c6f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a028cecb602dfbc2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "dcf0a0ddc7538c96",
+  "lastOpenFiles": [
+    "Excalidraw/countingpolesncams.excalidraw.md",
+    "Excalidraw/Drawing poles justification.excalidraw.md",
+    "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md",
+    "Prompts/Transferring data to.md",
+    "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png.crswap",
+    "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png",
+    "AI Server.png.crswap",
+    "AI Server.png",
+    "Meeting/12102026 - meeting.md",
+    "Prompts",
+    "sources/Pasted Image 20261013134024_929.png",
+    "IJM Rimbayu - annotated.png",
+    "sources/Pasted Image 20261013131657_598.png",
+    "IJM rimbayu-annotated-poles-cams-distance.svg",
+    "IJM rimbayu-annotated-poles-cams-distance (20MB).png",
+    "IJM rimbayu-annotated-poles-cams-distance.png",
+    "Excalidraw/Drawing distance along the map.md",
+    "Zoning · 100 cameras · v2 from pole map@1x (1).png",
+    "Zoning · 100 cameras · v2 from pole map@1x.png",
+    "Rimbayu_CCTV_Network_Design.md",
+    "Meeting",
+    "IFA Catalog-EN-July27.pdf.crswap",
+    "IFA Catalog-EN-July27.pdf",
+    "IJM rimbayu drawing.png.crswap",
+    "TP-Link_3KM_P2P_Security_Camera_BOM.pdf.crswap",
+    "TP-Link_3KM_P2P_Security_Camera_BOM.pdf",
+    "sources",
+    "IJM Theft Detection — Technical Doc (September).md",
+    "image1.md",
+    "Rimbayu_CCTV_Network_Design (1).md"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "F-1cBp7Qn34zDpSEXNtyc",
+      "name": "atlas",
+      "value": "#5f1616"
+    },
+    {
+      "id": "8Mpb0SGYU5zdtOvuI7c8Z",
+      "name": "calendar",
+      "value": "#1da1cd"
+    },
+    {
+      "id": "vlJiXT2ClUkdrXzP0A4Fh",
+      "name": "x",
+      "value": "#383838"
+    },
+    {
+      "id": "lhBLZbNbJX_wkenu_n94K",
+      "name": "sources",
+      "value": "#d38909"
+    }
+  ],
+  "fileColors": []
+}
