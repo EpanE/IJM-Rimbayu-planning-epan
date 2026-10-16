@@ -37,13 +37,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md"
+                "file": "Excalidraw/Drawing poles justification.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing number of poles from maps with distance.excalidraw"
+              "title": "Drawing poles justification.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,11 +223,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcf0a0ddc7538c96",
+  "active": "3f0de30dd885c839",
   "lastOpenFiles": [
+    "Excalidraw/Drawing distance along the map.md",
+    "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md",
     "Excalidraw/countingpolesncams.excalidraw.md",
     "Excalidraw/Drawing poles justification.excalidraw.md",
-    "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md",
     "Prompts/Transferring data to.md",
     "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png.crswap",
     "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png",
@@ -240,7 +242,6 @@
     "IJM rimbayu-annotated-poles-cams-distance.svg",
     "IJM rimbayu-annotated-poles-cams-distance (20MB).png",
     "IJM rimbayu-annotated-poles-cams-distance.png",
-    "Excalidraw/Drawing distance along the map.md",
     "Zoning · 100 cameras · v2 from pole map@1x (1).png",
     "Zoning · 100 cameras · v2 from pole map@1x.png",
     "Rimbayu_CCTV_Network_Design.md",
