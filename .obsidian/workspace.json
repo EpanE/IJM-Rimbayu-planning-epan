@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2b9d3460612f98",
+        "id": "a722b962ed5697c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9b38c52a07aa0a5a",
+            "id": "e33d215118aa2263",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Questions to TPLINK.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2026-10-22 16.40.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Questions to TPLINK"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-22 16.40.21.excalidraw"
             }
           }
         ]
@@ -211,12 +199,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b38c52a07aa0a5a",
+  "active": "e33d215118aa2263",
   "lastOpenFiles": [
+    "sources/Pasted Image 20261022164123_972.png",
+    "Excalidraw/Drawing 2026-10-22 16.40.21.excalidraw.md",
+    "sources/Pasted Image 20261022164110_004.png",
+    "sources/Pasted Image 20261022164048_390.png",
+    "Questions to TPLINK.md",
     "TOWNSHIP KUALA LANGGAR.pdf",
     "Map Points.html",
     "Map Points.html.opdownload",
-    "Questions to TPLINK.md",
     "Excalidraw/Drawing zoning.excalidraw.md",
     "Pole close-ups · v5 · hub, single-repeater near cluster, far cluster, camera pole (10 m)@2x.png",
     "Big router · topology hub, repeater and CPE clusters@2x.png",
@@ -225,7 +217,6 @@
     "Big router · BOM, RM15k phase 1, Maxis vs Starlink@2x.png",
     "IJM rimbayu-annotated-poles-cams-distance-zoning.svg",
     "IJM rimbayu-annotated-poles-cams-distance-zoning (20MB).png",
-    "IJM rimbayu-annotated-poles-cams-distance-zoning.png",
     "Excalidraw/Drawing poles justification.excalidraw.md",
     "Excalidraw/countingpolesncams.excalidraw.md",
     "Untitled.md",
@@ -233,9 +224,7 @@
     "Excalidraw/Drawing number of poles from maps with distance.excalidraw.md",
     "Prompts/Transferring data to.md",
     "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png.crswap",
-    "cd8e4ce4-cd75-4d51-b680-cf6c5870ffb9.png",
     "AI Server.png.crswap",
-    "AI Server.png",
     "Meeting/12102026 - meeting.md",
     "Prompts",
     "Rimbayu_CCTV_Network_Design.md",
@@ -243,7 +232,6 @@
     "IFA Catalog-EN-July27.pdf.crswap",
     "IFA Catalog-EN-July27.pdf",
     "IJM rimbayu drawing.png.crswap",
-    "TP-Link_3KM_P2P_Security_Camera_BOM.pdf.crswap",
     "IJM Theft Detection — Technical Doc (September).md",
     "image1.md",
     "Rimbayu_CCTV_Network_Design (1).md"
